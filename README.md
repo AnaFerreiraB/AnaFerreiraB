@@ -4,6 +4,7 @@
 - 🔭 Eu estou atualmente estudando Desenvolvimento de Software.
 - 🌱 Estou atualmente estudando: 
   - C#  e .Net
+  - Java
   - Html e Css
   - Javascript
 
